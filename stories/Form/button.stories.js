@@ -12,4 +12,5 @@ storiesOf('Button', module)
   .add('with text2', () => '<button>Click me</button>')
   .add('with text3', () => '<button>Click me</button>')
   .add('with text4', () => '<button>Click me</button>')
+  .add('with text5', () => '<button>Click me</button>')
   ;
